@@ -16,7 +16,7 @@ Import-Module ./VSSCopier.psm1
 
 ### Option 2: Manual Download
 
-1. [Download the ZIP](https://github.com/your-username/VSSCopier/archive/refs/heads/main.zip)
+1. [Download the ZIP](https://github.com/DanielSpindler83/VSSCopier/archive/refs/heads/main.zip)
 2. Extract it
 3. Import the module:
 
