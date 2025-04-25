@@ -9,7 +9,7 @@
 ### Option 1: Clone the Repo
 
 ```powershell
-git clone https://github.com/your-username/VSSCopier.git
+git clone https://github.com/DanielSpindler83/VSSCopier.git
 cd VSSCopier
 Import-Module ./VSSCopier.psm1
 ```
