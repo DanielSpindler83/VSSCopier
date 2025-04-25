@@ -18,10 +18,11 @@ Import-Module ./VSSCopier.psm1
 
 1. [Download the ZIP](https://github.com/DanielSpindler83/VSSCopier/archive/refs/heads/main.zip)
 2. Extract it
-3. Import the module:
+3. Open PowerShell terminal with path as root of extracted folder
+4. Import the module:
 
 ```powershell
-Import-Module ./VSSCopier-main/VSSCopier.psm1
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass; Import-Module ./VSSCopier-main/VSSCopier/VSSCopier.psm1
 ```
 
 ---
