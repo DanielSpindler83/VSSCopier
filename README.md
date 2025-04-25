@@ -36,6 +36,8 @@ $copier = [VSSCopier]::new()
 $copier = [VSSCopier]::new("D:\Mounts")
 ```
 
+Mount root is the path that created shadow copies are mounted into.
+
 ---
 
 ## 🔧 Methods & Examples
