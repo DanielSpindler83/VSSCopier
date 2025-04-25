@@ -22,7 +22,7 @@ Import-Module ./VSSCopier.psm1
 4. Import the module:
 
 ```powershell
-Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass; Import-Module ./VSSCopier-main/VSSCopier/VSSCopier.psm1
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass; Import-Module ./VSSCopier-main/VSSCopier/VSSCopier
 ```
 
 ---
